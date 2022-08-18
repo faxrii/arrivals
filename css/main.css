@@ -1,0 +1,88 @@
+#footer .up-footer .section-head h1 {
+  font-size: 17px;
+}
+
+#footer .up-footer .section-content p {
+  font-size: 15px;
+}
+
+#footer .up-footer .section-content a {
+  font-size: 15px;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  color: #000;
+  text-decoration: none;
+}
+
+#footer .up-footer .section-content a:hover {
+  color: aqua;
+}
+
+#footer .up-footer .section-content i {
+  font-size: 15px;
+}
+
+#footer .up-footer .social .section-content .ico-box {
+  background-color: #f7f7f7;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#footer .up-footer .social .section-content .ico-box i {
+  color: aqua;
+  margin-top: 25%;
+}
+
+#footer .up-footer .social .section-content .ico-box:hover {
+  background-color: aqua;
+}
+
+#footer .up-footer .social .section-content .ico-box:hover i {
+  color: #fff;
+}
+
+#footer .up-footer .letter .section-content input {
+  width: 200px;
+  height: 40px;
+  padding: 10px 15px;
+  outline: none;
+  background-color: #f7f7f7;
+  border: none;
+}
+
+#footer .up-footer .letter .section-content a {
+  padding: 10px 45px;
+  background-color: #00d0d0;
+  color: #fff;
+  border-radius: 8em;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 40px;
+}
+
+#footer .down-footer {
+  margin-top: 40px;
+}
+
+#footer .down-footer .right .right-left {
+  margin-right: 50px;
+}
+
+#footer .down-footer .right .right-left ul li {
+  margin-right: 10px;
+}
+
+#footer .down-footer .right .right-left ul li a {
+  color: #000;
+}
+
+#footer .down-footer .right .right-left ul li a i {
+  font-size: 22px;
+}
+/*# sourceMappingURL=main.css.map */
